@@ -1,0 +1,18 @@
+Traced on 2021-05-08 04:26:49
+FileAccessForInclusion - 
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\Webservices\Login.php::retrieveCurrentUserInfoFromFile::31<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\Webservices\OperationManager.php::vtws_login::154<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\webservice.php::runOperation::134<br>
+Traced on 2021-05-21 08:17:23
+FileAccessForInclusion - 
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\vtlib\Vtiger\AccessControl.php::checkFileAccessForInclusion::25<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\vtlib\Vtiger\AccessControl.php::loadUserPrivilegesWithId::44<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\modules\Users\Users.php::loadUserPrivileges::646<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\Webservices\Login.php::retrieveCurrentUserInfoFromFile::31<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\include\Webservices\OperationManager.php::vtws_login::154<br>
+C:\xampp\htdocs\vtigercrm7.3.0\vtigercrm\webservice.php::runOperation::136<br>
